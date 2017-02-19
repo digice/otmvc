@@ -1,2 +1,2 @@
-# otmvc
-MVC Framework for PHP Applications
+# OTMVC #
+_MVC Framework for PHP Applications_
