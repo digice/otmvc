@@ -12,7 +12,7 @@ abstract class OTMVCController
 {
 
   /** @property *arr* objects **/
-  protected $objects
+  protected $objects;
 
   /** @property *obj* table **/
   protected $table;
